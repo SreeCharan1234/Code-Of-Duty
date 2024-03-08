@@ -22,6 +22,9 @@ IV)   In our resources section all the best online coding contents will be freel
 IV)   We've also added courses section in which several best ed-Tech platforms can provide their courses which is also a revenue generation model of our project. 
 
 # Screenshots for refrence 🖼️
+How our Website works
+![21](https://github.com/SreeCharan1234/Code-Of-Duty/assets/119997965/2864d672-d825-48c1-8c89-c7bc11e471bd)
+
 1. Video Confrencing
 
 ![12](https://github.com/SreeCharan1234/Code-Of-Duty/assets/119997965/dccb417f-e19e-4287-9e9b-b62c0c1f0c55)
