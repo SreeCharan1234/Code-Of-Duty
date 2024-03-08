@@ -27,12 +27,11 @@ IV)   We've also added courses section in which several best ed-Tech platforms c
 ![12](https://github.com/SreeCharan1234/Code-Of-Duty/assets/119997965/dccb417f-e19e-4287-9e9b-b62c0c1f0c55)
 
 
-2. Screen Sharing during Video confrence
-![videoconfrencescreenshare](https://github.com/sushilverma1125/Code-A-Haunt/assets/114611314/564dc207-8675-4270-9ae0-a25e1e6f72fb)
 
-3. AI Help Bot
+
+2. AI Help Bot
 ![chatbot](https://github.com/sushilverma1125/Code-A-Haunt/assets/114611314/48d0515e-71d2-48e3-882a-7230f3977dfc)
 
-4. Login page
+3. Login page
 ![loginformforstudent](https://github.com/sushilverma1125/Code-A-Haunt/assets/114611314/482c7a1b-926f-4da0-8d89-aa0b5d5f479e)
 
