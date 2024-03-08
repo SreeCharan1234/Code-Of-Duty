@@ -23,7 +23,9 @@ IV)   We've also added courses section in which several best ed-Tech platforms c
 
 # Screenshots for refrence 🖼️
 1. Video Confrencing
-![videoconfrence](https://github.com/sushilverma1125/Code-A-Haunt/assets/114611314/795039e7-c6f0-478a-8d27-cd041f044d54)
+
+![12](https://github.com/SreeCharan1234/Code-Of-Duty/assets/119997965/dccb417f-e19e-4287-9e9b-b62c0c1f0c55)
+
 
 2. Screen Sharing during Video confrence
 ![videoconfrencescreenshare](https://github.com/sushilverma1125/Code-A-Haunt/assets/114611314/564dc207-8675-4270-9ae0-a25e1e6f72fb)
