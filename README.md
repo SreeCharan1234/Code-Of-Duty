@@ -1,7 +1,7 @@
 # Code-Of-Duty
 
-# PROJECT ID - CBP38 
-# GROUP NAME: BINARY 5 (101)
+# PROJECT ID - 141 
+# GROUP NAME: BINARY 4 
 # DESCRIPTION - Smart Education, a Concept that Describes learning in digital age.it enables learner to learn more effectively,efficently,flexibly and comfortably.
  
 # Brief-Description about the project 
